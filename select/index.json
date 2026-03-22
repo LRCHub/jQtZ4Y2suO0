@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今夜は君と",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-03-22T07:03:16.277217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜は君と",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/01_今夜は君と_AKASAKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜は君と",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_今夜は君と_AKASAKI.txt"
+    }
+  ]
+}
